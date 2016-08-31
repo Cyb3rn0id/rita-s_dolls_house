@@ -1,0 +1,30 @@
+*********************************
+RITA's Dolls House
+(C) Giovanni Bernardo
+settorezero@gmail.com
+*********************************
+Links
+*********************************
+
+*Video:
+https://www.youtube.com/watch?v=JY5K_JaSVwc
+
+*Pictures:
+https://photos.google.com/share/AF1QipOOrqpKd-cvQUrsIfhoVWy5dRkHh_fhxnP_H8g9BJzX-8nEUQpSl9Vk6Fe8AOhcOg?key=ODVrdDJpWDd2MnpPSGxNUDVIUVFlTTBZa3U0Z1NR
+
+
+*********************************
+TOOLS USED
+*********************************
+
+*Mit App Inventor 2:
+http://appinventor.mit.edu/explore/
+
+*PIC16F722:
+http://www.microchip.com/wwwproducts/en/pic16f722
+
+*MPLAB-X IDE:
+http://www.microchip.com/mplab/mplab-x-ide
+
+*MPLAB XC Compilers:
+http://www.microchip.com/mplab/compilers
