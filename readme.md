@@ -1,6 +1,6 @@
 #Rita's Dolls House
 
-Rita's Dolls House is a domotic dolls house I've built for my daughter Rita.
+Rita's Dolls House is a domotic dolls house I've built for my pricess daughter Rita.
 
 [This project was also mentioned on Hackaday!](http://hackaday.com/2016/09/06/ritas-dolls-probably-live-better-than-you-do/)
 
