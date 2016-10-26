@@ -8,7 +8,11 @@ Core is a PIC16F722 from microchip, programmed with XC8 C compiler and MPLAB X I
 
 *Links*
 -[Italian description of the project](http://www.settorezero.com/wordpress/ritas-dolls-house-una-casa-delle-bambole-controllata-via-bluetooth-dal-tablet-o-dal-cellulare/)
+
 -[Image gallery](https://photos.google.com/share/AF1QipOOrqpKd-cvQUrsIfhoVWy5dRkHh_fhxnP_H8g9BJzX-8nEUQpSl9Vk6Fe8AOhcOg?key=ODVrdDJpWDd2MnpPSGxNUDVIUVFlTTBZa3U0Z1NR)
+
 -[video](https://youtu.be/JY5K_JaSVwc)
+
 -[Interview by Italian newspaper "Il Messaggero" at Maker Faire Rome 2016](http://www.ilmessaggero.it/tecnologia/makerfaire/maker_faire_casa_delle_bambole_robotica-2029459.html)
+
 -[Article on Hackaday](http://hackaday.com/2016/09/06/ritas-dolls-probably-live-better-than-you-do/)
